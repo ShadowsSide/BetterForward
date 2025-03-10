@@ -30,7 +30,7 @@ Any messages sent to the bot will be forwarded to the corresponding topic in the
 
 More options and settings can be found by sending the `/help` command to the bot in the group.
 
-# 🚀 One-Click Deploy to Render
+# 🚀 One-Click Deploy to Render(Free,Credit card required)
 
 Click the button below to automatically deploy your BetterForward bot on Render:
 
