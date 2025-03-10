@@ -1,10 +1,3 @@
-## 🚀 一键部署到 Render
-
-点击下面的按钮，在 Render 上自动部署你的 BetterForward 机器人：
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShadowsSide/BetterForward)
-
-
 # Better Forward
 
 [中文README](README_zh.md)
@@ -36,6 +29,12 @@ Forward users' messages to topics in the group. Each user corresponds to a topic
 Any messages sent to the bot will be forwarded to the corresponding topic in the group.
 
 More options and settings can be found by sending the `/help` command to the bot in the group.
+
+# 🚀 One-Click Deploy to Render
+
+Click the button below to automatically deploy your BetterForward bot on Render:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/SideCloudGroup/BetterForward)
 
 ## Deployment
 
