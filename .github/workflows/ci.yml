@@ -1,3 +1,4 @@
+# Fork-only: GitHub-hosted runner.
 name: CI
 
 on:
@@ -11,7 +12,7 @@ concurrency:
 
 jobs:
   test:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v7
